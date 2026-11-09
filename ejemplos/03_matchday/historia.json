@@ -1,0 +1,15 @@
+{
+  "style": "marco",
+  "tag": "Matchday",
+  "headline": "MAÑANA, LIDERATO EN JUEGO",
+  "body": [
+    "Atleti 28 pts, Barça 30. Si ganamos, líderes al parón.",
+    "Domingo 21:00 en el Metropolitano. 1º vs 2º."
+  ],
+  "source": "Vía @Atleti",
+  "photo": "foto.jpg",
+  "focus_x": 0.5,
+  "focus_y": 0.32,
+  "text_position": "bottom",
+  "output": "resultado_regen.jpg"
+}

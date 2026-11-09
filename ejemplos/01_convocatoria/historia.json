@@ -1,0 +1,15 @@
+{
+  "style": "marco",
+  "tag": "Selección",
+  "headline": "4 ROJIBLANCOS CON LA ROJA",
+  "body": [
+    "Barrios, Baena, Grimaldo y Pubill, convocados por De la Fuente.",
+    "Amistosos ante República Checa e Inglaterra."
+  ],
+  "source": "Vía @Atleti",
+  "photo": "foto.jpg",
+  "focus_x": 0.5,
+  "focus_y": 0.35,
+  "text_position": "bottom",
+  "output": "resultado_regen.jpg"
+}

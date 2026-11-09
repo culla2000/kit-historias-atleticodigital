@@ -1,0 +1,15 @@
+{
+  "style": "marco",
+  "tag": "LaLiga",
+  "headline": "HORARIOS CONFIRMADOS",
+  "body": [
+    "Elche-Atleti: sábado 28 nov, 18:30 en el Martínez Valero.",
+    "Barça-Atleti: miércoles 2 dic, 21:30 en el Camp Nou."
+  ],
+  "source": "Vía @Atleti",
+  "photo": "foto.jpg",
+  "focus_x": 0.5,
+  "focus_y": 0.45,
+  "text_position": "bottom",
+  "output": "resultado_regen.jpg"
+}

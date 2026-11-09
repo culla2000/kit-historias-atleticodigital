@@ -1,0 +1,14 @@
+{
+  "headline": "BARRIOS VUELVE A LA ROJA",
+  "body": [
+    "✅ El vendaje tras el Bayern era falsa alarma.",
+    "🇪🇸 Estará en la lista de De la Fuente para el parón.",
+    "⚽ Y disponible el domingo ante el Barça."
+  ],
+  "keep_lines": true,
+  "source": "🗞️ Vía @marca",
+  "reserve_bottom": 220,
+  "photos": ["foto.jpg"],
+  "focus_y": 0.45,
+  "output": "resultado_regen.jpg"
+}
